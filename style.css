@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.card {
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.input-group label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #475569;
+    margin-bottom: 0.5rem;
+}
+
+.dark .input-group label {
+    color: #cbd5e1;
+}
+
+.input-group input:not([type="range"]) {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+    outline: none;
+    background: white;
+}
+
+.dark .input-group input:not([type="range"]) {
+    background: #0f172a;
+    border-color: #334155;
+    color: white;
+}
+
+.input-group input:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px #bfdbfe;
+}
+
+.gradient-text {
+    background: linear-gradient(135deg, #2563eb, #059669);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
