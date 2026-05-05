@@ -94,7 +94,7 @@ function updateChart(labels, data) {
                     ticks: {
                         color: isDark ? '#94a3b8' : '#64748b',
                         maxRotation: 0,
-                        maxTicksLimit: 8
+                        maxTicksLimit: 20
                     },
                     grid: { display: false }
                 }

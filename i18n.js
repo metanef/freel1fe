@@ -19,7 +19,7 @@ const translations = {
         monthLabel: "mois"
     },
     en: {
-        title: "Goal: €1,000,000",
+        title: "Goal: €1 000 000",
         subtitle: "Discover when you will reach the peak of your financial freedom.",
         infoTitle: "Your Information",
         labelAge: "Current Age (years)",
