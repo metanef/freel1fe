@@ -4,11 +4,11 @@ Interactive compound interest calculator — visualize your path to **€1,000,0
 
 [Demo Live](https://metanef.github.io/freel1fe/)
 
-<img width="1050" height="863" alt="image" src="https://github.com/user-attachments/assets/eac9e002-53e8-41aa-8247-67f102b4dad8" />
-
 ![UI](https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC?style=flat-square)
 ![Charts](https://img.shields.io/badge/Charts-Chart.js-FF6384?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/eac9e002-53e8-41aa-8247-67f102b4dad8" />
 
 ## Features
 
