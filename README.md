@@ -1,4 +1,4 @@
-# 💰 Quand serai-je millionnaire ?
+# 💰 When would I be a millionnaire ?
 
 Interactive compound interest calculator — visualize your path to **€1,000,000**.
 
